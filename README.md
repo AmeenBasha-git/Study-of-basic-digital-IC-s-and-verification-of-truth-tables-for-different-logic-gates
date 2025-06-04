@@ -79,8 +79,8 @@ endmodule
 ```
 
 
- **Developed by : N.Lakshanya**
- **Register Number: 212224230136**
+ **Developed by : Ameen Basha A**
+ **Register Number: 212224220008**
  
 **Logic symbol & Truthtable**
 
